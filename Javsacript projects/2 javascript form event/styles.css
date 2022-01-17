@@ -1,0 +1,26 @@
+/* .signup-form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 2rem;
+    /* background-color: aquamarine; */
+/*     
+    text-align: center;
+} */
+form{
+    max-width: 200px;
+    margin: 50px auto;
+    background: rgb(168, 255, 248);
+    padding: 10px;
+}
+input{
+    display: block;
+    margin: 10px auto;
+    padding: 4px;
+}
+.success{
+    border: 5px solid  darkgreen;
+}
+.error{
+    border:2px solid red;
+}
