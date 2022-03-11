@@ -10,3 +10,4 @@
 3. Javascript weather app
 
 => Created weather app using bootstrp and javasript by using the AccuWeather API.
+=> Deploy link:https://weather-app-javascript-api.herokuapp.com/
