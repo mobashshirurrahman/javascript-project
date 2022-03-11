@@ -7,3 +7,6 @@
 
 => Created form understanding regular expression and form events basics.
 
+3. Javascript weather app
+
+=> Created weather app using bootstrp and javasript by using the AccuWeather API.
